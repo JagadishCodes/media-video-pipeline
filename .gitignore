@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+.env
+logs/
+include/raw/*
+include/processed/*
+include/reports/*
+!include/raw/.gitkeep
+!include/processed/.gitkeep
+!include/reports/.gitkeep

@@ -1,0 +1,9 @@
+environment: dev
+incoming_dir: /opt/airflow/include/raw
+processed_dir: /opt/airflow/include/processed
+report_dir: /opt/airflow/include/reports
+default_resolutions:
+  - 1080p
+  - 720p
+  - 480p
+quality_threshold: 0.85
